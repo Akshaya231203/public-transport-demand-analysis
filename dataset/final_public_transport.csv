@@ -1,0 +1,296 @@
+trip_id,service_date,departure_hour,route_id,route_name,start_stop,end_stop,day_type,bus_type,passengers,bus_capacity,fare_per_passenger,ticket_revenue,weather,service_status,capacity_utilization
+T0001,2025-02-27,6,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,AC,27.0,45,25,675,Sunny,On Time,60.0
+T0002,2025-02-22,8,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,AC,34.0,45,20,680,Sunny,On Time,75.55555555555556
+T0003,2025-04-30,6,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,29.0,40,20,580,Cloudy,On Time,72.5
+T0004,2025-08-03,13,R05,Airport Connector,Central Station,Airport,Weekend,Express,40.0,50,18,720,Rainy,Delayed,80.0
+T0005,2025-03-23,19,R01,Central Express,Central Station,Tech Park,Weekend,AC,33.0,50,15,495,Sunny,On Time,66.0
+T0006,2025-02-22,8,R03,College Link,Central Station,University,Weekend,Standard,33.0,45,18,594,Rainy,Delayed,73.33333333333333
+T0007,2025-05-16,7,R05,Airport Connector,Central Station,Airport,Weekday,AC,54.0,50,25,1350,Cloudy,On Time,108.0
+T0008,2025-02-10,15,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,31.0,35,25,775,Rainy,On Time,88.57142857142857
+T0009,2025-02-10,7,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,30.0,45,25,750,Rainy,Cancelled,66.66666666666666
+T0010,2025-02-21,18,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,AC,42.0,40,15,630,Cloudy,Delayed,105.0
+T0011,2025-07-09,17,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,30.0,40,12,360,Rainy,On Time,75.0
+T0012,2025-11-28,8,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Express,30.0,45,20,600,Sunny,On Time,66.66666666666666
+T0013,2025-03-25,20,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,AC,24.0,40,18,432,Cloudy,On Time,60.0
+T0014,2025-12-17,16,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,0.0,40,10,0,Sunny,Delayed,0.0
+T0015,2025-05-18,8,R04,Market Circular,Market Junction,City Hospital,Weekend,Express,15.0,35,12,180,Cloudy,On Time,42.857142857142854
+T0016,2025-09-13,18,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,AC,29.0,45,25,725,Sunny,On Time,64.44444444444444
+T0017,2025-10-15,14,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,9.0,40,25,225,Rainy,Delayed,22.5
+T0018,2025-07-05,13,R04,Market Circular,Market Junction,City Hospital,Weekend,Express,26.0,35,12,300,Rainy,On Time,74.28571428571429
+T0019,2025-02-26,10,R01,Central Express,Central Station,Tech Park,Weekday,Standard,11.0,50,25,275,Cloudy,On Time,22.0
+T0020,2025-07-17,18,R01,Central Express,Central Station,Tech Park,Weekday,AC,19.0,50,20,380,Cloudy,On Time,38.0
+T0021,2025-01-06,9,R05,Airport Connector,Central Station,Airport,Weekday,Express,53.0,50,25,1325,Rainy,On Time,106.0
+T0022,2025-02-27,15,R03,College Link,Central Station,University,Weekday,Standard,19.0,45,18,342,Rainy,On Time,42.22222222222222
+T0023,2025-05-15,11,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,22.0,45,20,440,Cloudy,On Time,48.888888888888886
+T0024,2025-09-17,12,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,AC,4.0,45,12,48,sunny,On Time,8.88888888888889
+T0025,2025-01-01,16,R05,Airport Connector,Central Station,Airport,Weekday,Standard,15.0,50,18,270,Sunny,Delayed,30.0
+T0026,2025-05-03,7,R03,College Link,Central Station,University,Weekend,Express,37.0,45,12,444,Sunny,On Time,82.22222222222221
+T0027,2025-02-05,10,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,8.0,35,12,96,Rainy,Delayed,22.857142857142858
+T0028,2025-05-16,19,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,40.0,40,12,480,Cloudy,On Time,100.0
+T0029,2025-06-09,18,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Express,28.0,45,25,700,Rainy,On Time,62.22222222222222
+T0030,2025-08-20,9,R05,Airport Connector,Central Station,Airport,Weekday,Standard,32.0,50,12,384,Sunny,On Time,64.0
+T0031,2025-10-11,13,R05,Airport Connector,Central Station,Airport,Weekend,Standard,14.0,50,20,280,Sunny,On Time,28.000000000000004
+T0032,2025-10-11,13,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,44.0,45,10,440,Rainy,On Time,97.77777777777777
+T0033,2025-05-23,21,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,21.0,40,12,252,Sunny,On Time,52.5
+T0034,2025-10-23,21,R05,Airport Connector,Central Station,Airport,Weekday,AC,9.0,50,12,108,Rainy,On Time,18.0
+T0035,2025-12-04,19,R01,Central Express,Central Station,Tech Park,Weekday,AC,-5.0,50,15,675,Rainy,On Time,-10.0
+T0036,2025-01-28,9,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,AC,21.0,45,10,210,Cloudy,On Time,46.666666666666664
+T0037,2025-05-08,12,R01,Central Express,Central Station,Tech Park,Weekday,Express,24.0,50,12,288,Rainy,On Time,48.0
+T0038,2025-05-23,20,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,0.0,40,12,0,Rainy,Delayed,0.0
+T0039,2025-02-20,7,R05,Airport Connector,Central Station,Airport,Weekday,Express,20.0,50,25,500,Sunny,Cancelled,40.0
+T0040,2025-03-27,19,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,AC,38.0,40,18,684,Sunny,Delayed,95.0
+T0041,2025-03-26,18,R01,Central Express,Central Station,Tech Park,Weekday,AC,44.0,50,10,440,Rainy,Delayed,88.0
+T0042,2025-05-27,19,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,38.0,35,25,950,Cloudy,On Time,108.57142857142857
+T0043,2025-03-21,12,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,20.0,35,15,300,Sunny,On Time,57.14285714285714
+T0044,2025-02-01,16,R05,Airport Connector,Central Station,Airport,Weekend,Standard,18.0,50,10,180,Cloudy,On Time,36.0
+T0045,2025-03-22,7,R05,Airport Connector,Central Station,Airport,Weekend,Standard,18.0,50,20,360,Sunny,On Time,36.0
+T0046,2025-12-12,13,R01,Central Express,Central Station,Tech Park,Weekday,Standard,13.0,50,18,234,Cloudy,On Time,26.0
+T0047,2025-01-21,8,R05,Airport Connector,Central Station,Airport,Weekday,Express,30.0,50,18,540,Cloudy,On Time,60.0
+T0048,2025-05-14,12,R03,College Link,Central Station,University,Weekday,Express,34.0,45,25,850,Rainy,On Time,75.55555555555556
+T0049,2025-03-09,15,R04,Market Circular,Market Junction,City Hospital,Weekend,AC,26.0,35,18,468,Sunny,On Time,74.28571428571429
+T0050,2025-10-16,9,R05,Airport Connector,Central Station,Airport,Weekday,Express,14.0,50,10,140,Sunny,On Time,28.000000000000004
+T0051,2025-06-28,8,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,AC,39.0,40,12,468,Rainy,On Time,97.5
+T0052,2025-12-27,15,R05,Airport Connector,Central Station,Airport,Weekend,Express,17.0,50,20,340,Cloudy,On Time,34.0
+T0053,2025-06-03,9,R05,Airport Connector,Central Station,Airport,Weekday,AC,27.0,50,12,324,Sunny,Delayed,54.0
+T0054,2025-10-11,10,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,AC,29.0,45,15,435,Cloudy,On Time,64.44444444444444
+T0055,2025-04-15,14,R03,College Link,Central Station,University,Weekday,AC,34.0,45,20,680,Rainy,Delayed,75.55555555555556
+T0056,2025-02-17,19,R01,Central Express,Central Station,Tech Park,Weekday,Standard,26.0,50,15,705,Sunny,On Time,52.0
+T0057,2025-11-23,14,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,Express,11.0,40,12,132,Rainy,On Time,27.500000000000004
+T0058,2025-10-15,6,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,18.0,35,10,180,Cloudy,Delayed,51.42857142857142
+T0059,2025-01-19,17,R05,Airport Connector,Central Station,Airport,Weekend,Express,39.0,50,20,780,Sunny,On Time,78.0
+T0060,2025-06-07,17,R01,Central Express,Central Station,Tech Park,Weekend,AC,47.0,50,10,470,Sunny,On Time,94.0
+T0061,2025-02-22,17,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,AC,30.0,45,20,600,Cloudy,On Time,66.66666666666666
+T0062,2025-03-25,11,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,19.0,40,18,342,Sunny,On Time,47.5
+T0063,2025-07-30,13,R03,College Link,Central Station,University,Weekday,Standard,8.0,45,15,120,Cloudy,On Time,17.77777777777778
+T0064,2025-08-29,13,R01,Central Express,Central Station,Tech Park,Weekday,AC,7.0,50,12,84,Rainy,On Time,14.000000000000002
+T0065,2025-04-25,6,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,31.0,40,25,775,sunny,On Time,77.5
+T0066,2025-05-23,17,R01,Central Express,Central Station,Tech Park,Weekday,Express,52.0,50,25,1300,Rainy,On Time,104.0
+T0067,2025-06-19,6,R05,Airport Connector,Central Station,Airport,Weekday,AC,21.0,50,10,210,Sunny,On Time,42.0
+T0068,2025-01-20,9,R03,College Link,Central Station,University,Weekday,AC,48.0,45,20,960,Rainy,On Time,106.66666666666667
+T0069,2025-08-12,9,R03,College Link,Central Station,University,Weekday,Express,40.0,45,18,720,Sunny,On Time,88.88888888888889
+T0070,2025-08-12,6,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Express,14.0,45,20,280,Cloudy,On Time,31.11111111111111
+T0071,2025-12-10,12,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,AC,26.0,45,15,390,Sunny,Delayed,57.77777777777777
+T0072,2025-11-16,16,R03,College Link,Central Station,University,Weekend,Standard,40.0,45,25,1000,Cloudy,Delayed,88.88888888888889
+T0073,2025-06-08,27,R05,Airport Connector,Central Station,Airport,Weekend,AC,35.0,50,15,525,Cloudy,On Time,70.0
+T0074,2025-04-09,19,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,AC,48.0,40,25,1200,Cloudy,On Time,120.0
+T0075,2025-11-12,15,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,0.0,40,18,0,Sunny,On Time,0.0
+T0076,2025-08-09,16,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,AC,31.0,40,18,558,Rainy,On Time,77.5
+T0077,2025-08-31,11,R05,Airport Connector,Central Station,Airport,Weekend,Standard,23.0,50,25,575,Rainy,On Time,46.0
+T0078,2025-11-14,16,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,18.0,45,10,180,Cloudy,On Time,40.0
+T0079,2025-03-17,6,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,23.0,40,10,230,Rainy,On Time,57.49999999999999
+T0080,2025-03-17,19,R01,Central Express,Central Station,Tech Park,Weekday,Express,12.0,50,25,300,Sunny,On Time,24.0
+T0081,2025-09-11,18,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,33.0,35,12,396,Cloudy,On Time,94.28571428571428
+T0082,2025-08-06,13,R01,Central Express,Central Station,Tech Park,Weekday,Express,26.0,50,12,312,Cloudy,On Time,52.0
+T0083,2025-05-08,9,R05,Airport Connector,Central Station,Airport,Weekday,Standard,53.0,50,18,954,Rainy,On Time,106.0
+T0084,2025-11-01,16,R05,Airport Connector,Central Station,Airport,Weekend,Express,15.0,50,18,270,Cloudy,Delayed,30.0
+T0085,2025-10-08,20,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,12.0,35,12,144,Rainy,On Time,34.285714285714285
+T0086,2025-11-23,14,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,AC,15.0,40,20,300,Cloudy,On Time,37.5
+T0087,2025-02-09,15,R04,Market Circular,Market Junction,City Hospital,Weekend,AC,32.0,35,12,384,Rainy,On Time,91.42857142857143
+T0088,2025-02-11,10,R05,Airport Connector,Central Station,Airport,Weekday,Standard,25.0,50,12,300,Rainy,On Time,50.0
+T0089,2025-04-20,8,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,AC,29.0,45,18,522,Rainy,On Time,64.44444444444444
+T0090,2025-02-01,12,R04,Market Circular,Market Junction,City Hospital,Weekend,AC,28.0,35,18,504,Cloudy,Delayed,80.0
+T0091,2025-10-22,18,R01,Central Express,Central Station,Tech Park,Weekday,Standard,37.0,50,18,666,Rainy,On Time,74.0
+T0092,2025-08-03,13,R04,Market Circular,Market Junction,City Hospital,Weekend,Standard,33.0,35,18,594,Rainy,On Time,94.28571428571428
+T0093,2025-07-19,16,R01,Central Express,Central Station,Tech Park,Weekend,Express,13.0,50,25,325,Rainy,On Time,26.0
+T0094,2025-03-07,6,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,18.0,35,18,324,Cloudy,On Time,51.42857142857142
+T0095,2025-11-26,19,R01,Central Express,Central Station,Tech Park,Weekday,AC,31.0,50,12,372,Sunny,On Time,62.0
+T0096,2025-06-17,12,R04,Market Circular,Market Junction,City Hospital,Weekday,AC,4.0,35,18,72,Rainy,On Time,11.428571428571429
+T0097,2025-05-23,19,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,39.0,35,15,585,Rainy,On Time,111.42857142857143
+T0098,2025-01-27,17,R05,Airport Connector,Central Station,Airport,Weekday,Express,39.0,50,12,468,Sunny,Delayed,78.0
+T0099,2025-01-21,6,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,22.0,45,12,264,Sunny,On Time,48.888888888888886
+T0100,2025-03-06,21,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,19.0,40,25,475,Cloudy,Delayed,47.5
+T0101,2025-12-25,14,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,5.0,35,15,75,Cloudy,On Time,14.285714285714285
+T0102,2025-02-28,11,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,16.0,45,15,240,Cloudy,On Time,35.55555555555556
+T0103,2025-10-22,18,R03,College Link,Central Station,University,Weekday,Express,26.0,45,18,558,Sunny,On Time,57.77777777777777
+T0104,2025-11-18,13,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Express,12.0,45,10,120,Rainy,Delayed,26.666666666666668
+T0105,2025-03-03,7,R05,Airport Connector,Central Station,Airport,Weekday,Express,34.0,50,15,510,Rainy,On Time,68.0
+T0106,2025-09-17,16,R01,Central Express,Central Station,Tech Park,Weekday,AC,26.0,50,10,260,Rainy,On Time,52.0
+T0107,2025-11-22,20,R03,College Link,Central Station,University,Weekend,Standard,44.0,45,25,1100,Rainy,On Time,97.77777777777777
+T0108,2025-11-30,14,R05,Airport Connector,Central Station,Airport,Weekend,Express,24.0,50,20,480,Rainy,On Time,48.0
+T0109,2025-10-31,14,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,25.0,45,15,375,Sunny,On Time,55.55555555555556
+T0110,2025-05-05,20,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,21.0,35,20,420,Cloudy,On Time,60.0
+T0111,2025-09-11,16,R01,Central Express,Central Station,Tech Park,Weekday,AC,0.0,50,12,0,Sunny,On Time,0.0
+T0112,2025-06-24,14,R03,College Link,Central Station,University,Weekday,Express,21.0,45,20,420,Rainy,On Time,46.666666666666664
+T0113,2025-04-08,8,R05,Airport Connector,Central Station,Airport,Weekday,Express,36.0,50,12,432,Rainy,On Time,72.0
+T0114,2025-12-20,21,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,Express,48.0,40,25,1200,Rainy,On Time,120.0
+T0115,2025-02-17,15,R01,Central Express,Central Station,Tech Park,Weekday,AC,19.0,50,12,228,Cloudy,On Time,38.0
+T0116,2025-10-25,17,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,Express,39.0,45,18,702,Cloudy,On Time,86.66666666666667
+T0117,2025-10-09,16,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Express,21.0,45,15,315,Rainy,On Time,46.666666666666664
+T0118,2025-04-29,9,R03,College Link,Central Station,University,Weekday,Standard,21.0,45,25,525,Rainy,On Time,46.666666666666664
+T0119,2025-12-20,11,R05,Airport Connector,Central Station,Airport,Weekend,Standard,35.0,50,12,420,sunny,On Time,70.0
+T0120,2025-10-29,15,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,31.0,45,10,310,Rainy,On Time,68.88888888888889
+T0121,2025-06-04,6,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,31.0,40,25,775,Sunny,On Time,77.5
+T0122,2025-10-11,15,R01,Central Express,Central Station,Tech Park,Weekend,Standard,11.0,50,25,275,Cloudy,Delayed,22.0
+T0123,2025-02-22,6,R04,Market Circular,Market Junction,City Hospital,Weekend,AC,38.0,35,20,760,Rainy,On Time,108.57142857142857
+T0124,2025-04-05,7,R03,College Link,Central Station,University,Weekend,AC,19.0,45,15,285,Sunny,Delayed,42.22222222222222
+T0125,2025-09-09,8,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,43.0,35,20,860,Cloudy,On Time,122.85714285714286
+T0126,2025-10-16,15,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,48.0,40,10,480,Sunny,On Time,120.0
+T0127,2025-11-07,13,R04,Market Circular,Market Junction,City Hospital,Weekday,AC,10.0,35,20,200,Rainy,Delayed,28.57142857142857
+T0128,2025-10-29,19,R03,College Link,Central Station,University,Weekday,Express,29.0,45,15,435,Cloudy,On Time,64.44444444444444
+T0129,2025-02-20,12,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,23.0,45,25,575,Rainy,On Time,51.11111111111111
+T0130,2025-05-03,11,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,Standard,15.0,40,20,300,Sunny,On Time,37.5
+T0131,2025-12-19,21,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,3.0,35,15,45,Sunny,On Time,8.571428571428571
+T0132,2025-12-26,20,R03,College Link,Central Station,University,Weekday,Express,22.0,45,10,220,Sunny,Delayed,48.888888888888886
+T0133,2025-10-29,12,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,9.0,45,18,162,Cloudy,On Time,20.0
+T0134,2025-05-17,10,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,Standard,27.0,40,10,270,Sunny,Delayed,67.5
+T0135,2025-10-19,15,R05,Airport Connector,Central Station,Airport,Weekend,Standard,10.0,50,18,180,Rainy,On Time,20.0
+T0136,2025-07-26,14,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,Express,-5.0,45,20,800,Rainy,On Time,-11.11111111111111
+T0137,2025-01-21,19,R05,Airport Connector,Central Station,Airport,Weekday,AC,26.0,50,25,650,Cloudy,On Time,52.0
+T0138,2025-04-28,6,R01,Central Express,Central Station,Tech Park,Weekday,AC,18.0,50,25,450,Cloudy,On Time,36.0
+T0139,2025-08-29,20,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,31.0,40,15,465,Cloudy,On Time,77.5
+T0140,2025-02-16,21,R04,Market Circular,Market Junction,City Hospital,Weekend,AC,7.0,35,15,105,Rainy,On Time,20.0
+T0141,2025-03-24,16,R01,Central Express,Central Station,Tech Park,Weekday,Express,24.0,50,18,432,Rainy,On Time,48.0
+T0142,2025-10-09,7,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,43.0,35,18,774,Rainy,On Time,122.85714285714286
+T0143,2025-07-26,6,R01,Central Express,Central Station,Tech Park,Weekend,Express,2.0,50,25,50,Rainy,On Time,4.0
+T0144,2025-09-23,17,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,AC,38.0,40,20,760,Cloudy,On Time,95.0
+T0145,2025-04-15,14,R01,Central Express,Central Station,Tech Park,Weekday,Standard,25.0,50,20,500,Rainy,On Time,50.0
+T0146,2025-09-06,9,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,Express,45.0,45,10,450,Cloudy,Delayed,100.0
+T0147,2025-03-23,15,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,Standard,7.0,45,20,140,Cloudy,On Time,15.555555555555555
+T0148,2025-02-28,20,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,6.0,40,10,60,Sunny,On Time,15.0
+T0149,2025-05-30,14,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,AC,28.0,45,18,504,Rainy,On Time,62.22222222222222
+T0150,2025-03-16,18,R05,Airport Connector,Central Station,Airport,Weekend,Express,39.0,50,12,468,Cloudy,On Time,78.0
+T0151,2025-02-05,14,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,AC,25.0,40,18,450,Cloudy,On Time,62.5
+T0152,2025-05-25,15,R01,Central Express,Central Station,Tech Park,Weekend,Express,26.0,50,20,520,Cloudy,On Time,52.0
+T0153,2025-08-17,21,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,AC,13.0,40,15,195,Cloudy,On Time,32.5
+T0154,2025-08-22,16,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,24.0,35,12,288,Sunny,On Time,68.57142857142857
+T0155,2025-07-30,7,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,39.0,40,15,585,Rainy,On Time,97.5
+T0156,2025-07-17,10,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,13.0,35,18,234,Sunny,On Time,37.142857142857146
+T0157,2025-06-19,9,R05,Airport Connector,Central Station,Airport,Weekday,Standard,58.0,50,18,1044,Cloudy,Delayed,115.99999999999999
+T0158,2025-03-15,19,R01,Central Express,Central Station,Tech Park,Weekend,Standard,41.0,50,25,1025,Sunny,On Time,82.0
+T0159,2025-06-23,18,R03,College Link,Central Station,University,Weekday,Standard,21.0,45,25,525,Rainy,Delayed,46.666666666666664
+T0160,2025-07-14,16,R05,Airport Connector,Central Station,Airport,Weekday,Express,29.0,50,25,725,Rainy,Delayed,57.99999999999999
+T0161,2025-11-13,8,R01,Central Express,Central Station,Tech Park,Weekday,Express,24.0,50,12,288,Cloudy,Delayed,48.0
+T0162,2025-02-16,19,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,Express,45.0,40,10,450,Cloudy,Delayed,112.5
+T0163,2025-03-27,15,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,35.0,35,10,350,Rainy,Delayed,100.0
+T0164,2025-07-03,17,R03,College Link,Central Station,University,Weekday,Standard,26.0,45,18,468,Sunny,On Time,57.77777777777777
+T0165,2025-12-16,11,R05,Airport Connector,Central Station,Airport,Weekday,Standard,33.0,50,12,396,Sunny,On Time,66.0
+T0166,2025-11-14,13,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,26.0,35,18,468,Sunny,On Time,74.28571428571429
+T0167,2025-11-14,20,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,Express,31.0,45,15,465,Sunny,Delayed,68.88888888888889
+T0168,2025-05-28,11,R04,Market Circular,Market Junction,City Hospital,Weekday,AC,43.0,35,10,430,Rainy,Cancelled,122.85714285714286
+T0169,2025-11-24,19,R03,College Link,Central Station,University,Weekday,AC,33.0,45,25,825,Rainy,Delayed,73.33333333333333
+T0170,2025-07-16,21,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,12.0,40,10,120,Rainy,On Time,30.0
+T0171,2025-06-01,15,R05,Airport Connector,Central Station,Airport,Weekend,Express,11.0,50,10,110,Rainy,On Time,22.0
+T0172,2025-12-18,7,R05,Airport Connector,Central Station,Airport,Weekday,Express,26.0,50,20,520,Rainy,Delayed,52.0
+T0173,2025-04-28,17,R03,College Link,Central Station,University,Weekday,Express,35.0,45,12,420,Sunny,On Time,77.77777777777779
+T0174,2025-12-04,10,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,26.0,45,25,650,Cloudy,On Time,57.77777777777777
+T0175,2025-08-14,7,R03,College Link,Central Station,University,Weekday,AC,39.0,45,20,780,Cloudy,On Time,86.66666666666667
+T0176,2025-06-17,19,R03,College Link,Central Station,University,Weekday,Standard,45.0,45,12,540,Sunny,Delayed,100.0
+T0177,2025-09-29,14,R03,College Link,Central Station,University,Weekday,AC,22.0,45,12,264,Rainy,Cancelled,48.888888888888886
+T0178,2025-06-23,9,R03,College Link,Central Station,University,Weekday,Standard,53.0,45,18,954,Sunny,On Time,117.77777777777779
+T0179,2025-12-13,18,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,AC,32.0,40,20,640,Sunny,Delayed,80.0
+T0180,2025-05-16,9,R01,Central Express,Central Station,Tech Park,Weekday,AC,58.0,50,18,1044,Cloudy,On Time,115.99999999999999
+T0181,2025-10-27,18,R03,College Link,Central Station,University,Weekday,AC,43.0,45,25,1075,Sunny,On Time,95.55555555555556
+T0182,2025-01-13,16,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,11.0,35,20,220,Cloudy,On Time,31.428571428571427
+T0183,2025-12-25,15,R04,Market Circular,Market Junction,City Hospital,Weekday,AC,9.0,35,25,225,Sunny,On Time,25.71428571428571
+T0184,2025-06-05,21,R01,Central Express,Central Station,Tech Park,Weekday,Standard,27.0,50,10,270,Sunny,Delayed,54.0
+T0185,2025-07-18,20,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,19.0,40,15,285,Cloudy,On Time,47.5
+T0186,2025-08-03,10,R05,Airport Connector,Central Station,Airport,Weekend,Express,30.0,50,18,540,Sunny,Delayed,60.0
+T0187,2025-07-28,14,R05,Airport Connector,Central Station,Airport,Weekday,Express,27.0,50,10,270,Rainy,On Time,54.0
+T0188,2025-05-01,17,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,35.0,35,10,350,Rainy,On Time,100.0
+T0189,2025-07-03,7,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,AC,25.0,45,18,450,Sunny,Cancelled,55.55555555555556
+T0190,2025-02-16,12,R04,Market Circular,Market Junction,City Hospital,Weekend,Express,3.0,0,25,75,Cloudy,Cancelled,inf
+T0191,2025-06-20,13,R01,Central Express,Central Station,Tech Park,Weekday,Express,16.0,50,12,192,Sunny,On Time,32.0
+T0192,2025-04-17,12,R05,Airport Connector,Central Station,Airport,Weekday,AC,32.0,50,12,384,Sunny,Delayed,64.0
+T0193,2025-01-02,14,R05,Airport Connector,Central Station,Airport,Weekday,Standard,24.0,50,12,288,Cloudy,On Time,48.0
+T0194,2025-02-26,6,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,7.0,40,12,84,Rainy,Delayed,17.5
+T0195,2025-10-29,16,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,24.0,40,10,240,Rainy,On Time,60.0
+T0196,2025-08-04,9,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,40.0,45,25,1000,Rainy,On Time,88.88888888888889
+T0197,2025-09-20,9,R03,College Link,Central Station,University,Weekend,Express,25.0,45,18,450,Sunny,Delayed,55.55555555555556
+T0198,2025-12-04,15,R01,Central Express,Central Station,Tech Park,Weekday,Express,23.0,50,18,414,Sunny,On Time,46.0
+T0199,2025-07-25,19,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,36.0,35,25,900,Rainy,On Time,102.85714285714285
+T0200,2025-02-07,8,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,22.0,35,15,330,Sunny,On Time,62.857142857142854
+T0201,2025-11-16,16,R03,College Link,Central Station,University,Weekend,Express,26.0,45,18,468,Cloudy,On Time,57.77777777777777
+T0202,2025-11-06,19,R05,Airport Connector,Central Station,Airport,Weekday,Express,42.0,50,10,420,Sunny,Delayed,84.0
+T0203,2025-10-10,12,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,AC,34.0,45,18,612,Sunny,On Time,75.55555555555556
+T0204,2025-07-24,19,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,43.0,35,-10,1075,Rainy,On Time,122.85714285714286
+T0205,2025-05-11,17,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,Express,19.0,45,12,228,Rainy,On Time,42.22222222222222
+T0206,2025-02-17,19,R01,Central Express,Central Station,Tech Park,Weekday,Express,24.0,50,10,240,Cloudy,On Time,48.0
+T0207,2025-10-12,7,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,Express,42.0,40,20,840,Cloudy,On Time,105.0
+T0208,2025-07-30,17,R01,Central Express,Central Station,Tech Park,Weekday,AC,42.0,50,25,1050,Cloudy,On Time,84.0
+T0209,2025-11-04,15,R03,College Link,Central Station,University,Weekday,Standard,28.0,45,15,420,Cloudy,On Time,62.22222222222222
+T0210,2025-12-03,21,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,48.0,40,12,576,Rainy,Delayed,120.0
+T0211,2025-02-28,14,R03,College Link,Central Station,University,Weekday,Standard,28.0,45,20,560,Rainy,Delayed,62.22222222222222
+T0212,2025-11-11,6,R05,Airport Connector,Central Station,Airport,Weekday,Express,26.0,50,20,700,Cloudy,On Time,52.0
+T0213,2025-05-20,15,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,AC,33.0,40,15,495,Sunny,On Time,82.5
+T0214,2025-10-17,18,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,43.0,40,10,430,Cloudy,On Time,107.5
+T0215,2025-02-16,12,R01,Central Express,Central Station,Tech Park,Weekend,AC,18.0,50,18,324,Rainy,On Time,36.0
+T0216,2025-06-09,16,R03,College Link,Central Station,University,Weekday,Express,31.0,45,20,620,Sunny,Delayed,68.88888888888889
+T0217,2025-03-22,7,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,Standard,26.0,40,25,650,Rainy,On Time,65.0
+T0218,2025-09-06,20,R04,Market Circular,Market Junction,City Hospital,Weekend,AC,19.0,35,18,342,Sunny,On Time,54.285714285714285
+T0219,2025-06-26,19,R01,Central Express,Central Station,Tech Park,Weekday,AC,30.0,50,10,300,Cloudy,On Time,60.0
+T0220,2025-09-27,15,R04,Market Circular,Market Junction,City Hospital,Weekend,Standard,22.0,35,10,220,Rainy,Cancelled,62.857142857142854
+T0221,2025-01-04,12,R01,Central Express,Central Station,Tech Park,Weekend,Standard,49.0,50,15,735,Sunny,On Time,98.0
+T0222,2025-06-17,9,R03,College Link,Central Station,University,Weekday,AC,13.0,45,10,130,Cloudy,On Time,28.888888888888886
+T0223,2025-07-14,13,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,30.0,40,20,600,Cloudy,Delayed,75.0
+T0224,2025-07-23,7,R01,Central Express,Central Station,Tech Park,Weekday,Standard,16.0,50,18,288,Rainy,Delayed,32.0
+T0225,2025-10-22,19,R03,College Link,Central Station,University,Weekday,AC,30.0,45,20,600,Cloudy,On Time,66.66666666666666
+T0226,2025-02-28,18,R03,College Link,Central Station,University,Weekday,AC,49.0,45,10,490,Sunny,Delayed,108.88888888888889
+T0227,2025-08-24,17,R05,Airport Connector,Central Station,Airport,Weekend,AC,36.0,50,10,360,Sunny,On Time,72.0
+T0228,2025-07-25,8,R05,Airport Connector,Central Station,Airport,Weekday,AC,23.0,50,18,414,Cloudy,On Time,46.0
+T0229,2025-03-28,8,R03,College Link,Central Station,University,Weekday,Express,27.0,45,20,540,Sunny,On Time,60.0
+T0230,2025-06-28,17,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekend,Express,44.0,40,25,1100,Sunny,On Time,110.00000000000001
+T0231,2025-05-12,12,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,13.0,40,12,156,Sunny,On Time,32.5
+T0232,2025-02-08,11,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,AC,24.0,45,25,600,Rainy,On Time,53.333333333333336
+T0233,2025-08-18,16,R05,Airport Connector,Central Station,Airport,Weekday,AC,22.0,50,25,550,Sunny,On Time,44.0
+T0234,2025-08-15,15,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,14.0,35,15,210,Sunny,On Time,40.0
+T0235,2025-06-08,20,R01,Central Express,Central Station,Tech Park,Weekend,Standard,47.0,50,18,846,Sunny,On Time,94.0
+T0236,2025-02-09,8,R03,College Link,Central Station,University,Weekend,Express,43.0,45,20,860,Cloudy,On Time,95.55555555555556
+T0237,2025-10-11,7,R05,Airport Connector,Central Station,Airport,Weekend,Express,11.0,50,18,198,Cloudy,On Time,22.0
+T0238,2025-09-01,10,R05,Airport Connector,Central Station,Airport,Weekday,AC,24.0,50,10,240,Sunny,Delayed,48.0
+T0239,2025-02-13,11,R03,College Link,Central Station,University,Weekday,Standard,14.0,45,10,140,Cloudy,On Time,31.11111111111111
+T0240,2025-09-26,11,R04,Market Circular,Market Junction,City Hospital,Weekday,AC,32.0,35,15,480,Rainy,On Time,91.42857142857143
+T0241,2025-12-14,7,R03,College Link,Central Station,University,Weekend,Express,26.0,45,25,650,Rainy,On Time,57.77777777777777
+T0242,2025-10-13,18,R01,Central Express,Central Station,Tech Park,Weekday,AC,34.0,50,15,510,Cloudy,Delayed,68.0
+T0243,2025-03-18,16,R05,Airport Connector,Central Station,Airport,Weekday,Express,28.0,50,10,280,Cloudy,On Time,56.00000000000001
+T0244,2025-06-08,18,R03,College Link,Central Station,University,Weekend,Express,46.0,45,12,552,Cloudy,Delayed,102.22222222222221
+T0245,2025-06-08,18,R03,College Link,Central Station,University,Weekday,AC,21.0,45,25,525,Sunny,On Time,46.666666666666664
+T0246,2025-12-17,8,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Express,31.0,45,25,775,Rainy,On Time,68.88888888888889
+T0247,2025-07-05,15,R01,Central Express,Central Station,Tech Park,Weekend,Standard,16.0,50,12,192,Rainy,Delayed,32.0
+T0248,2025-04-09,13,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,14.0,35,12,168,Sunny,On Time,40.0
+T0249,2025-09-17,7,R01,Central Express,Central Station,Tech Park,Weekday,AC,57.0,50,25,1425,Cloudy,On Time,113.99999999999999
+T0250,2025-03-20,11,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,26.0,35,12,312,Cloudy,Delayed,74.28571428571429
+T0251,2025-08-13,7,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,AC,20.0,40,18,360,Cloudy,Delayed ,50.0
+T0252,2025-11-09,15,R04,Market Circular,Market Junction,City Hospital,Weekend,AC,33.0,35,25,825,Sunny,On Time,94.28571428571428
+T0253,2025-08-29,12,R03,College Link,Central Station,University,Weekday,Express,47.0,45,15,705,Cloudy,Cancelled,104.44444444444446
+T0254,2025-05-25,18,R04,Market Circular,Market Junction,City Hospital,Weekend,Express,43.0,35,20,860,Rainy,Cancelled,122.85714285714286
+T0255,2025-11-06,10,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,3.0,40,15,45,Cloudy,On Time,7.5
+T0256,2025-10-11,9,R03,College Link,Central Station,University,Weekend,Express,30.0,45,25,750,Sunny,On Time,66.66666666666666
+T0257,2025-05-20,20,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,37.0,40,20,740,Rainy,On Time,92.5
+T0258,2025-08-19,17,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,AC,27.0,40,10,270,Sunny,On Time,67.5
+T0259,2025-05-01,18,R03,College Link,Central Station,University,Weekday,AC,41.0,45,10,410,Sunny,On Time,91.11111111111111
+T0260,2025-11-29,16,R01,Central Express,Central Station,Tech Park,Weekend,Standard,31.0,50,12,372,Sunny,On Time,62.0
+T0261,2025-12-23,10,R04,Market Circular,Market Junction,City Hospital,Weekday,AC,10.0,35,25,250,Rainy,On Time,28.57142857142857
+T0262,2025-01-10,14,R01,Central Express,Central Station,Tech Park,Weekday,Standard,21.0,50,12,252,Cloudy,Delayed,42.0
+T0263,2025-09-28,19,R05,Airport Connector,Central Station,Airport,Weekend,AC,0.0,50,10,0,Sunny,On Time,0.0
+T0264,2025-05-03,19,R01,Central Express,Central Station,Tech Park,Weekend,Express,23.0,50,25,575,Rainy,On Time,46.0
+T0265,2025-11-02,6,R04,Market Circular,Market Junction,City Hospital,Weekend,Express,18.0,35,25,450,Cloudy,On Time,51.42857142857142
+T0266,2025-05-30,19,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Express,21.0,40,10,210,Rainy,On Time,52.5
+T0267,2025-04-06,8,R04,Market Circular,Market Junction,City Hospital,Weekend,AC,43.0,35,20,860,Sunny,Cancelled,122.85714285714286
+T0268,2025-09-17,6,R05,Airport Connector,Central Station,Airport,Weekday,AC,4.0,50,18,72,Sunny,On Time,8.0
+T0269,2025-05-10,6,R03,College Link,Central Station,University,Weekend,Standard,16.0,45,15,240,Rainy,On Time,35.55555555555556
+T0270,2025-11-18,9,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Express,37.0,45,20,740,Rainy,On Time,82.22222222222221
+T0271,2025-10-07,16,R03,College Link,Central Station,University,Weekday,Standard,39.0,45,25,975,Cloudy,On Time,86.66666666666667
+T0272,2025-09-03,11,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,4.0,45,12,48,Cloudy,On Time,8.88888888888889
+T0273,2025-01-19,15,R04,Market Circular,Market Junction,City Hospital,Weekend,Standard,35.0,35,12,420,Sunny,Delayed,100.0
+T0274,2025-06-08,18,R03,College Link,Central Station,University,Weekend,AC,36.0,45,20,720,Rainy,On Time,80.0
+T0275,2025-04-08,15,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,10.0,45,15,150,Cloudy,On Time,22.22222222222222
+T0276,2025-07-08,19,R01,Central Express,Central Station,Tech Park,Weekday,Express,41.0,50,18,738,Rainy,Delayed,82.0
+T0277,2025-06-23,11,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,24.0,35,18,432,Rainy,On Time,68.57142857142857
+T0278,2025-05-17,8,R05,Airport Connector,Central Station,Airport,Weekend,AC,28.0,50,25,700,Sunny,On Time,56.00000000000001
+T0279,2025-10-07,15,R02,Beach Road,Old Bus Stand,Beach Terminal,Weekday,Standard,22.0,40,15,330,Sunny,On Time,55.00000000000001
+T0280,2025-06-06,20,R03,College Link,Central Station,University,Weekday,Express,17.0,45,20,340,Rainy,On Time,37.77777777777778
+T0281,2025-06-29,20,R04,Market Circular,Market Junction,City Hospital,Weekend,Express,23.0,35,10,230,Rainy,On Time,65.71428571428571
+T0282,2025-05-21,7,R04,Market Circular,Market Junction,City Hospital,Weekday,Express,43.0,35,10,430,Cloudy,On Time,122.85714285714286
+T0283,2025-12-14,11,R05,Airport Connector,Central Station,Airport,Weekend,Standard,41.0,50,10,410,Cloudy,On Time,82.0
+T0284,2025-01-18,10,R04,Market Circular,Market Junction,City Hospital,Weekend,Standard,7.0,35,10,70,Cloudy,On Time,20.0
+T0285,2025-10-18,7,R04,Market Circular,Market Junction,City Hospital,Weekend,Standard,43.0,35,20,860,Cloudy,On Time,122.85714285714286
+T0286,2025-07-10,20,R03,College Link,Central Station,University,Weekday,Express,0.0,45,10,0,Sunny,On Time,0.0
+T0287,2025-06-10,14,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,20.0,35,12,240,Sunny,On Time,57.14285714285714
+T0288,2025-09-23,18,R04,Market Circular,Market Junction,City Hospital,Weekday,Standard,43.0,35,20,860,Rainy,On Time,122.85714285714286
+T0289,2025-08-17,12,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,AC,25.0,45,20,500,Cloudy,Delayed,55.55555555555556
+T0290,2025-04-13,9,R04,Market Circular,Market Junction,City Hospital,Weekend,Standard,28.0,35,12,336,Rainy,On Time,80.0
+T0296,2025-10-23,21,R05,Airport Connector,Central Station,Airport,Weekday,AC,9.0,50,12,108,Rainy,On Time,18.0
+T0297,2025-11-14,16,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekday,Standard,18.0,45,10,180,Cloudy,On Time,40.0
+T0298,2025-10-11,15,R01,Central Express,Central Station,Tech Park,Weekend,Standard,11.0,50,25,275,Cloudy,Delayed,22.0
+T0299,2025-03-05,10,R01,Central Express,Central Station,Tech Park,Weekday,Standard,31.0,50,15,465,Sunny,On Time,62.0
+T0300,2025-04-26,17,R06,Industrial Line,Old Bus Stand,Industrial Estate,Weekend,AC,43.0,45,20,860,Sunny,On Time,95.55555555555556
